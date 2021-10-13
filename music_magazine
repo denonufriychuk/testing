@@ -1,0 +1,67 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Music review</title>
+</head>
+
+<body>
+
+<h1 align="center">Music Magazine</h1>
+
+<h2 align="left">Разделы</h2>
+
+<p><font size="4" title="Всплывающая подсказка">
+<ul type="disc">
+    <li>Рецензии
+	<ul type="square">
+	<li>One
+	<li>Two
+	<li>Three
+	</ul>
+	
+    <li>Чарты
+	<ul type="square">
+	<li>One
+	<li>Two
+	<li>Three
+	</ul>
+	
+	<li>Жанры
+	<ul type="square">
+	<li>Хип-хоп
+	<li>Джаз
+	<li>Рок
+	</ul>
+</ul>
+</font>
+</p>
+
+<h2 align="left">Предстоящие события</h2>
+
+<p><font size="4" title="Всплывающая подсказка">
+<ol type="I">
+<li>Ожидаемые релизы
+<ol start="3">
+<li>One
+<li>Two
+<li>Three
+</ol>
+
+<li>Концерты
+<ol start="3">
+<li>Сентябрь
+<li>Октябрь
+<li>Ноябрь
+</ol>
+</ol>
+</font>
+</p>
+
+<hr color="Orange" size="20" width=45%>
+
+</body>
+
+</html>
